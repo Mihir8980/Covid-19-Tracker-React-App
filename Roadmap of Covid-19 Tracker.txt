@@ -1,0 +1,12 @@
+Steps to create Covid 19 Tracker
+1) Create Wireframe
+2) Create ReactApp
+3) CleanUp Project
+4) Structure the Covid-19 tracker
+5) Create Header
+6) Create Info Boxes
+7) Create Tables
+8) Create Chart
+9) Create Map
+10) Styling
+11) Deploy
